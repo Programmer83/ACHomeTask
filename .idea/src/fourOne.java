@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**
  * Created by Dima Tolm on 24/02/2016.
  */
-public class MAIN {
+public class fourOne {
 
     public static void main(String[] args) {
 
@@ -14,7 +14,6 @@ public class MAIN {
         if(time >= 9 && time <= 18) {
             System.out.println("I am at work");
         } else { System.out.println("Relaxing");
-            }
         }
+    }
 }
-
