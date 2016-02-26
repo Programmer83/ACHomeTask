@@ -1,3 +1,5 @@
+package ua.artsode.week1;
+
 import java.util.Scanner;
 /**
  * Created by Dima Tolm on 25/02/2016.

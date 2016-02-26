@@ -1,3 +1,5 @@
+package ua.artsode.week1;
+
 import java.util.Scanner;
 /**
  * Created by Dima Tolm on 25/02/2016.
@@ -8,12 +10,14 @@ public class fiveThree {
 
         int[] myNum = {5,8,3,8};
 
+        int res = 0;
+
         for (int i = 0 ; i < myNum.length; i++){
             if (myNum[i] == 8) {
- //               int res = res + i;
+                res++;
             }
         }
 
-//        System.out.println(res);
+        System.out.println("res = " + res);
     }
 }

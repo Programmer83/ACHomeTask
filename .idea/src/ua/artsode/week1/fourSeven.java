@@ -1,3 +1,5 @@
+package ua.artsode.week1;
+
 import java.util.Scanner;
 /**
  * Created by Dima Tolm on 25/02/2016.
@@ -14,10 +16,10 @@ public class fourSeven {
         int num2 = sc.nextInt();
 
         if (num1 % num2 == 0) {
-            System.out.println();
+//            System.out.println(true");
 
         }
 
-        System.out.println(res);
+//        System.out.println(res);
     }
 }
