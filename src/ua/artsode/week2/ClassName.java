@@ -20,7 +20,7 @@ public class ClassName {
 
         city = null;
 
-        String test;
+        String test ;
     }
 
 }
