@@ -15,11 +15,12 @@ public class fourSeven {
         System.out.println("Enter second number");
         int num2 = sc.nextInt();
 
+        double res = num1/num2;
+
         if (num1 % num2 == 0) {
-//            System.out.println(true");
-
+            System.out.println("true " + res);
+        } else {
+            System.out.println("false " + res);
         }
-
-//        System.out.println(res);
     }
 }
