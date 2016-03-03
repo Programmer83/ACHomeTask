@@ -8,7 +8,7 @@ public class fourTwo {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Please imput 3 numbers: ");
+        System.out.println("Please input 3 numbers: ");
 
         int max = 0;
         int min = 0;
