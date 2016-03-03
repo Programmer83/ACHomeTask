@@ -36,7 +36,7 @@ public class fourTwo {
         if (num3 < min) {
             min = num3;
         }
-        System.out.println("mininun number " + min);
+        System.out.println("minimum number " + min);
         System.out.println("max number " + max);
     }
 }
